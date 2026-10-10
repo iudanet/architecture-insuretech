@@ -1,0 +1,199 @@
+=== 16:24:58
+scaletestapp   Deployment/scaletestapp   memory: 48%/80%   1     10    1     4m44s
+scaletestapp-57447db96f-mthww   1m    9Mi   
+scaletestapp-57447db96f-mthww   1/1   Running   0     4m44s
+=== 16:25:08
+scaletestapp   Deployment/scaletestapp   memory: 49%/80%   1     10    1     4m55s
+scaletestapp-57447db96f-mthww   1m    9Mi   
+scaletestapp-57447db96f-mthww   1/1   Running   0     4m55s
+=== 16:25:19
+scaletestapp   Deployment/scaletestapp   memory: 49%/80%   1     10    1     5m5s
+scaletestapp-57447db96f-mthww   1m    9Mi   
+scaletestapp-57447db96f-mthww   1/1   Running   0     5m6s
+=== 16:25:30
+scaletestapp   Deployment/scaletestapp   memory: 49%/80%   1     10    1     5m16s
+scaletestapp-57447db96f-mthww   1m    9Mi   
+scaletestapp-57447db96f-mthww   1/1   Running   0     5m16s
+=== 16:25:40
+scaletestapp   Deployment/scaletestapp   memory: 49%/80%   1     10    1     5m27s
+scaletestapp-57447db96f-mthww   1m    9Mi   
+scaletestapp-57447db96f-mthww   1/1   Running   0     5m27s
+=== 16:25:51
+scaletestapp   Deployment/scaletestapp   memory: 49%/80%   1     10    1     5m37s
+scaletestapp-57447db96f-mthww   83m   21Mi   
+scaletestapp-57447db96f-mthww   1/1   Running   0     5m38s
+=== 16:26:02
+scaletestapp   Deployment/scaletestapp   memory: 109%/80%   1     10    1     5m48s
+scaletestapp-57447db96f-mthww   83m   21Mi   
+scaletestapp-57447db96f-lns5v   0/1   ContainerCreating   0     2s
+scaletestapp-57447db96f-mthww   1/1   Running             0     5m48s
+=== 16:26:13
+scaletestapp   Deployment/scaletestapp   memory: 109%/80%   1     10    1     5m59s
+scaletestapp-57447db96f-mthww   83m   21Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     13s
+scaletestapp-57447db96f-mthww   1/1   Running   0     5m59s
+=== 16:26:23
+scaletestapp   Deployment/scaletestapp   memory: 109%/80%   1     10    2     6m10s
+scaletestapp-57447db96f-mthww   83m   21Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     24s
+scaletestapp-57447db96f-mthww   1/1   Running   0     6m10s
+=== 16:26:34
+scaletestapp   Deployment/scaletestapp   memory: 109%/80%   1     10    2     6m20s
+scaletestapp-57447db96f-mthww   83m   21Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     35s
+scaletestapp-57447db96f-mthww   1/1   Running   0     6m21s
+=== 16:26:45
+scaletestapp   Deployment/scaletestapp   memory: 109%/80%   1     10    2     6m31s
+scaletestapp-57447db96f-mthww   83m   21Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     45s
+scaletestapp-57447db96f-mthww   1/1   Running   0     6m31s
+=== 16:26:55
+scaletestapp   Deployment/scaletestapp   memory: 109%/80%   1     10    2     6m42s
+scaletestapp-57447db96f-lns5v   2m     4Mi    
+scaletestapp-57447db96f-mthww   116m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     56s
+scaletestapp-57447db96f-mthww   1/1   Running   0     6m42s
+=== 16:27:06
+scaletestapp   Deployment/scaletestapp   memory: 69%/80%   1     10    2     6m52s
+scaletestapp-57447db96f-lns5v   2m     4Mi    
+scaletestapp-57447db96f-mthww   116m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     67s
+scaletestapp-57447db96f-mthww   1/1   Running   0     6m53s
+=== 16:27:17
+scaletestapp   Deployment/scaletestapp   memory: 69%/80%   1     10    2     7m3s
+scaletestapp-57447db96f-lns5v   2m     4Mi    
+scaletestapp-57447db96f-mthww   116m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     77s
+scaletestapp-57447db96f-mthww   1/1   Running   0     7m3s
+=== 16:27:27
+scaletestapp   Deployment/scaletestapp   memory: 69%/80%   1     10    2     7m14s
+scaletestapp-57447db96f-lns5v   2m     4Mi    
+scaletestapp-57447db96f-mthww   116m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     88s
+scaletestapp-57447db96f-mthww   1/1   Running   0     7m14s
+=== 16:27:38
+scaletestapp   Deployment/scaletestapp   memory: 69%/80%   1     10    2     7m24s
+scaletestapp-57447db96f-lns5v   2m     4Mi    
+scaletestapp-57447db96f-mthww   116m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     99s
+scaletestapp-57447db96f-mthww   1/1   Running   0     7m25s
+=== 16:27:49
+scaletestapp   Deployment/scaletestapp   memory: 69%/80%   1     10    2     7m35s
+scaletestapp-57447db96f-lns5v   2m     4Mi    
+scaletestapp-57447db96f-mthww   116m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     109s
+scaletestapp-57447db96f-mthww   1/1   Running   0     7m35s
+=== 16:27:59
+scaletestapp   Deployment/scaletestapp   memory: 69%/80%   1     10    2     7m46s
+scaletestapp-57447db96f-lns5v   1m     6Mi    
+scaletestapp-57447db96f-mthww   100m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     2m
+scaletestapp-57447db96f-mthww   1/1   Running   0     7m46s
+=== 16:28:10
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     7m57s
+scaletestapp-57447db96f-lns5v   1m     6Mi    
+scaletestapp-57447db96f-mthww   100m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     2m11s
+scaletestapp-57447db96f-mthww   1/1   Running   0     7m57s
+=== 16:28:21
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     8m7s
+scaletestapp-57447db96f-lns5v   1m     6Mi    
+scaletestapp-57447db96f-mthww   100m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     2m21s
+scaletestapp-57447db96f-mthww   1/1   Running   0     8m7s
+=== 16:28:31
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     8m18s
+scaletestapp-57447db96f-lns5v   1m     6Mi    
+scaletestapp-57447db96f-mthww   100m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     2m32s
+scaletestapp-57447db96f-mthww   1/1   Running   0     8m18s
+=== 16:28:42
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     8m28s
+scaletestapp-57447db96f-lns5v   1m     6Mi    
+scaletestapp-57447db96f-mthww   100m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     2m43s
+scaletestapp-57447db96f-mthww   1/1   Running   0     8m29s
+=== 16:28:53
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     8m39s
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   91m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     2m53s
+scaletestapp-57447db96f-mthww   1/1   Running   0     8m39s
+=== 16:29:03
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     8m49s
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   91m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     3m4s
+scaletestapp-57447db96f-mthww   1/1   Running   0     8m50s
+=== 16:29:14
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     9m
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   91m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     3m14s
+scaletestapp-57447db96f-mthww   1/1   Running   0     9m
+=== 16:29:24
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     9m11s
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   91m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     3m25s
+scaletestapp-57447db96f-mthww   1/1   Running   0     9m11s
+=== 16:29:35
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     9m21s
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   91m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     3m36s
+scaletestapp-57447db96f-mthww   1/1   Running   0     9m22s
+=== 16:29:46
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     9m32s
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   91m   22Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     3m47s
+scaletestapp-57447db96f-mthww   1/1   Running   0     9m33s
+=== 16:29:57
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     9m43s
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   96m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     3m57s
+scaletestapp-57447db96f-mthww   1/1   Running   0     9m43s
+=== 16:30:07
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     9m53s
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   96m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     4m8s
+scaletestapp-57447db96f-mthww   1/1   Running   0     9m54s
+=== 16:30:18
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     10m
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   96m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     4m18s
+scaletestapp-57447db96f-mthww   1/1   Running   0     10m
+=== 16:30:28
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     10m
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   96m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     4m29s
+scaletestapp-57447db96f-mthww   1/1   Running   0     10m
+=== 16:30:39
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     10m
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   96m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     4m40s
+scaletestapp-57447db96f-mthww   1/1   Running   0     10m
+=== 16:30:50
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     10m
+scaletestapp-57447db96f-lns5v   1m    6Mi    
+scaletestapp-57447db96f-mthww   96m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     4m50s
+scaletestapp-57447db96f-mthww   1/1   Running   0     10m
+=== 16:31:00
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     10m
+scaletestapp-57447db96f-lns5v   1m     6Mi    
+scaletestapp-57447db96f-mthww   108m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     5m1s
+scaletestapp-57447db96f-mthww   1/1   Running   0     10m
+=== 16:31:11
+scaletestapp   Deployment/scaletestapp   memory: 74%/80%   1     10    2     10m
+scaletestapp-57447db96f-lns5v   1m     6Mi    
+scaletestapp-57447db96f-mthww   108m   23Mi   
+scaletestapp-57447db96f-lns5v   1/1   Running   0     5m12s
+scaletestapp-57447db96f-mthww   1/1   Running   0     10m

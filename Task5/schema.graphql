@@ -1,0 +1,28 @@
+scalar Date
+
+type Client {
+  id: ID!
+  name: String
+  age: Int
+  documents(type: String): [Document!]!
+  relatives(relationType: String): [Relative!]!
+}
+
+type Document {
+  id: ID!
+  type: String
+  number: String
+  issueDate: Date
+  expiryDate: Date
+}
+
+type Relative {
+  id: ID!
+  relationType: String
+  name: String
+  age: Int
+}
+
+type Query {
+  client(id: ID!): Client
+}
